@@ -1,5 +1,5 @@
 const ApiError = require("../api-error")
-const ContactService = require("../../services/contact.service")
+const ContactService = require("../services/contact.service")
 const MongoDB = require("../utils/mongodb.util")
 
 // Create and Save a new Contact
